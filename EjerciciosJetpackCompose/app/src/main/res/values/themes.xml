@@ -4,4 +4,8 @@
     <style name="Theme.Ejercicio01" parent="android:Theme.Material.Light.NoActionBar" />
 
     <style name="Theme.Ejercicio02" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.Ejercicio03JetpackCompose" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.Ejercicio03" parent="android:Theme.Material.Light.NoActionBar" />
 </resources>

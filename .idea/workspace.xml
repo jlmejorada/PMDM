@@ -10,155 +10,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4040d266-dd12-43b8-9947-144f0531ef9a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/.idea/deploymentTargetSelector.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/.idea/migrations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/app/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/app/src/main/java/com/example/ejercicio01/Animal.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/app/src/main/java/com/example/ejercicio01/Animales.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/app/src/main/java/com/example/ejercicio01/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/app/src/main/res/mipmap-anydpi/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/app/src/test/java/com/example/ejercicio01/ExampleUnitTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/gradle/libs.versions.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jetpack/.idea/Jetpack.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PruebaNav/app/src/main/java/com/example/pruebanav/Pantalla1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PruebaNav/app/src/main/java/com/example/pruebanav/Pantalla2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/example/ejercicio02jetpackcompose/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/ejercicio02jetpackcompose/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/ejercicio02jetpackcompose/Widgets.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/ejercicio02jetpackcompose/ui/theme/Color.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/ejercicio02jetpackcompose/ui/theme/Theme.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/ejercicio02jetpackcompose/ui/theme/Type.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/test/java/com/example/ejercicio02jetpackcompose/ExampleUnitTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/libs.versions.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deploymentTargetSelector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/.idea/deploymentTargetSelector.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/.idea/migrations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Jetpack/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/app/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/app/src/androidTest/java/com/example/jetpack/ExampleInstrumentedTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/app/src/main/java/com/example/jetpack/Contacto.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/app/src/main/java/com/example/jetpack/MainActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/app/src/main/java/com/example/jetpack/ui/theme/Color.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/app/src/main/java/com/example/jetpack/ui/theme/Theme.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/app/src/main/java/com/example/jetpack/ui/theme/Type.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/app/src/main/res/drawable/mujel.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/app/src/main/res/drawable/onvre.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/app/src/main/res/drawable/pausa.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/app/src/main/res/mipmap-anydpi/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/app/src/main/res/values/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/app/src/test/java/com/example/jetpack/ExampleUnitTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/gradle/libs.versions.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jetpack/settings.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ListaContactos/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ListaContactos/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ListaContactos/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ListaContactos/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ListaContactos/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ListaContactos/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/example/entrega01/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/app/src/androidTest/java/com/example/ejercicio01/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/entrega01/MainActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/entrega01/ui/theme/Color.kt" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/app/src/main/java/com/example/ejercicio01/ui/theme/Color.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/entrega01/ui/theme/LoginScreen.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/entrega01/ui/theme/Theme.kt" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/app/src/main/java/com/example/ejercicio01/ui/theme/Theme.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/entrega01/ui/theme/Type.kt" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/app/src/main/java/com/example/ejercicio01/ui/theme/Type.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosJetpackCompose/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosJetpackCompose/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosJetpackCompose/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosJetpackCompose/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosJetpackCompose/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/ejercicio02jetpackcompose/Widgets.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/ejercicio02jetpackcompose/Widgets.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,9 +43,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2nQJXSRbhmnLfRssE2uSSBx3x9y" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -202,7 +61,8 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/jlmejorada/Desktop/Repositorios/PMDM/EjerciciosJetpackCompose"
   },
   "keyToStringList": {
     "kotlin-gradle-user-dirs": [
